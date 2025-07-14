@@ -1,28 +1,19 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"antrobot's VCC packages",
+    "id":"com.antrobot.VCCPackages",
+    "url":"https://antrobot123.github.io/antrobot-s-VCC-packages/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"antrobot1234gmail.com",
+        "name":"antrobot",
+        "url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Some packages to help with vrchat automation",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://antrobot123.github.io/antrobot-s-VCC-packages/index.json",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "antrobot123/BulkAnimatorTransitionEditor"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
 }
